@@ -9,8 +9,7 @@ read -p "Enter a name for the new creation: " NAME
         read -p "Enter a name for the new creation: " NAME
         path=./$NAME
         done
-
-#if [ -d "$path" ]
+echo "done"
 #then
 #	echo "path exists"
 #else
